@@ -1,6 +1,6 @@
 package work;
 
-public class Ex3_homework {
+public class Ex3_homework_check {
 	
 	public static void main(String[] args) {
 		
