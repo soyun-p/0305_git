@@ -20,10 +20,11 @@ public class Ex2_work {
 			
 		int n = sc.nextInt();			
 				
-		for(int i = 1; i <= 100; i++) {
+		for(int i = 1; i <= 100; i++) {	
+			
 			System.out.println(i);
 			
-			if( i > n ) {
+			if( i > n ) { 
 				break;				
 			} // if
 			

@@ -26,7 +26,7 @@ public class Ex1_while {
 		
 		/* while (true) {  // while문에서 조건식이 true이면, break문을 만나지 않는 이상 무한 반복.
 			System.out.println(num++);  
-		} */
+		}  */
 		
 	}  // main
 

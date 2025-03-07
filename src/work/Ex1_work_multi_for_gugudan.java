@@ -1,6 +1,6 @@
 package work;
 
-public class Ex1_work {
+public class Ex1_work_multi_for_gugudan {
 	
 	public static void main(String[] args) {
 		
