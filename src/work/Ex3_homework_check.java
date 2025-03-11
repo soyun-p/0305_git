@@ -33,7 +33,7 @@ public class Ex3_homework_check {
 				if( i + j > 3 ) {  // 공백을 출력해야 하는 부분은 i+j가 3이하인 부분이기 때문.
 					System.out.print("* ");
 				}else {
-					System.out.print(" ");
+					System.out.print("  ");
 				}				
 				
 								
@@ -53,7 +53,7 @@ public class Ex3_homework_check {
 				if( i + j > 3 ) {
 					System.out.print("* ");	
 				}else {
-					System.out.print(" ");
+					System.out.print("  "); // 공백을 두 칸 띄어야 함. 간격.
 				}
 				
 			} // inner
